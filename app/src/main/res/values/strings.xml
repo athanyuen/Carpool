@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Signup Login Firebase</string>
+
+    <string-array name="roles">
+        <item>teacher</item>
+        <item>student</item>
+        <item>parent</item>
+        <item>alumni</item>
+
+    </string-array>
+</resources>

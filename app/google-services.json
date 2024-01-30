@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210149992400",
+    "project_id": "signup-login-firebase-f5447",
+    "storage_bucket": "signup-login-firebase-f5447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210149992400:android:5bbff932e4ae44e654fbd5",
+        "android_client_info": {
+          "package_name": "com.example.signuploginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASV-QrvU9jLNaFw5_b7Q2zMyGVM8Lajw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
