@@ -1,4 +1,4 @@
-package com.example.signuploginfirebase;
+package com.example.CarpoolBuddy;
 
 import org.junit.Test;
 
